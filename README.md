@@ -1,2 +1,2 @@
 # Jysko
-Just some practice,
+say "hi!"
